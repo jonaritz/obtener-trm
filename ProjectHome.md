@@ -1,0 +1,1 @@
+Gadget para que aparezca la TRM del día en spreadsheets de google docs, información que ofrece el banco de la república de Colombia y que no coincide con la información de google sobre la tasa de cambio del dolar.
